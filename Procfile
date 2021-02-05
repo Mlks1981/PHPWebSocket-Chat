@@ -1,1 +1,1 @@
-worker: php5 server.php
+worker: php server.php
